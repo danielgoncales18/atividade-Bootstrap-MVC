@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - Aliança</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+
+<header>
+   <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm">
+        <div class="container py-2">
+            <a class="navbar-brand brand" asp-controller="Home" asp-action="Index">Aliança</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#menuPrincipal" aria-controls="menuPrincipal"
+                    aria-expanded="false" aria-label="Abrir menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="menuPrincipal">
+                <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-2">
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Index">Início</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#servicos">Serviços</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#sobre">Sobre</a></li>
+                    <li class="nav-item"><a class="btn btn-wine ms-lg-2" asp-controller="Cerimonias" asp-action="Index">Cerimônias</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+</header>
+
+<main>
+    @RenderBody()
+</main>
+
+<footer class="border-top py-4 mt-5">
+    <div class="container text-center text-muted">
+        <small>© @DateTime.Now.Year  — Cerimonial de Casamentos</small>
+    </div>
+</footer>
+
+</body>
+</html>
