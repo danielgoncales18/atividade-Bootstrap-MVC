@@ -33,11 +33,11 @@ body {
 body { background: var(--cream); color: var(--ink); }
 .brand, .section-title, .hero h1 { font-family: Georgia, serif; color: var(--wine); }
 .brand { font-size: 1.6rem; font-weight: 700; }
-.hero { background: linear-gradient(90deg, #f9e7e8, #fffaf7); }
+.hero { background: linear-gradient(90deg, #ccc0c0, #fffaf7); }
 .hero h1 { color: var(--ink); }
 .hero-image { min-height: 300px; width: 100%; object-fit: cover; }
 .eyebrow { color: var(--wine); font-size: .75rem; font-weight: 700; letter-spacing: .12em; }
-.bg-soft { background: #f8ece7; }
+.bg-soft { background: #ccc0c0; }
 .btn-wine { background: var(--wine); border-color: var(--wine); color: #fff; }
 .btn-wine:hover { background: #59212d; border-color: #592129; color: #fff; }
 .btn-outline-wine { border-color: var(--wine); color: var(--wine); }

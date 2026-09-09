@@ -92,6 +92,7 @@ C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-M
 C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\atividade-cerimonial.pdb
 C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\atividade-cerimonial.genruntimeconfig.cache
 C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\ref\atividade-cerimonial.dll
-C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\compressed\vg75bhhlck-{0}-hzp8dak0se-hzp8dak0se.gz
 C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\compressed\ye758h2nlw-{0}-zg7r1fc1mw-zg7r1fc1mw.gz
 C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\compressed\qvdiwnup9y-{0}-zg7r1fc1mw-zg7r1fc1mw.gz
+C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\atividade-cerimonial.sourcelink.json
+C:\Users\DS1.ECFP790N1308523\Documents\atividade-Bootstrap\atividade-Bootstrap-MVC\atividade-cerimonial\obj\Debug\net10.0\compressed\vg75bhhlck-{0}-ozq8du47va-ozq8du47va.gz
